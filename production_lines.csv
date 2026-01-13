@@ -1,0 +1,7 @@
+line_id,plant_id,line_type,max_units_per_hour,setup_time_minutes,is_bottleneck_prone
+L1,P1,Bath Linen,120,45,True
+L2,P1,Bath Linen,100,30,False
+L3,P1,Yarn,80,60,True
+L4,P2,Bed Linen,110,40,False
+L5,P2,Bed Linen,95,35,False
+L6,P2,Yarn,75,55,True

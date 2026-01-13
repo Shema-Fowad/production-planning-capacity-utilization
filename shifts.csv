@@ -1,0 +1,4 @@
+shift_id,shift_name,start_time,end_time,planned_hours,labor_cost_per_hour
+S1,Morning,06:00,14:00,8,220
+S2,Evening,14:00,22:00,8,230
+S3,Night,22:00,06:00,8,250

@@ -1,0 +1,6 @@
+product_id,product_category,gsm,standard_minutes_per_unit,selling_price
+PR1,Towel,450,0.45,280
+PR2,Towel,550,0.55,340
+PR3,Bedsheet,180,0.65,620
+PR4,Bedsheet,220,0.75,720
+PR5,Yarn,0,0.9,210
